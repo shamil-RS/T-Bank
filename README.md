@@ -26,9 +26,9 @@ Launch
 2. Open the project in Android Studio
 3. Build and run the application on the emulator or device
 
-![Screenshot_20250526_025111](https://github.com/user-attachments/assets/16b5a877-ab71-4033-ac2d-0e11a931d9ca)
 
-![Screenshot_20250526_025300](https://github.com/user-attachments/assets/a2087b79-6d0f-4509-ad67-7dc54746200a)
+![Screenshot_20250526_025300](https://github.com/user-attachments/assets/62d9b352-b604-4929-adc8-06b2a24a4b46)
+![Screenshot_20250526_025111](https://github.com/user-attachments/assets/f0ee4c1f-e7fb-4f52-9585-2e153256af93)
 
 
 
