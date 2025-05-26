@@ -32,5 +32,5 @@ Launch
 
 ![Screenshot_20250526_025300](https://github.com/user-attachments/assets/62d9b352-b604-4929-adc8-06b2a24a4b46)
 
+[Screen_recording_20250526_025327.webm](https://github.com/user-attachments/assets/45225cf7-d36f-4d12-8ef3-21a69c8d6d5c)
 
-![Screenshot_20250526_025300](https://github.com/user-attachments/assets/62d9b352-b604-4929-adc8-06b2a24a4b46)
